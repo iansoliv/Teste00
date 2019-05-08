@@ -5,8 +5,7 @@
 @
 @
 Oi GiT,
-sou Ian
-seu novo amiguinho!
+Hello my new friend!
 @
 @
 @
