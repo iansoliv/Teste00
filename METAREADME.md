@@ -1,4 +1,5 @@
 
+..................................................
 
 .md stands for markdown and is generated at 
 the bottom of your github page as html.
@@ -19,3 +20,6 @@ Typical syntax includes:
 	- This will be a list item
 
 		Add a indent and this will end up as code
+		
+		
+..................................................
